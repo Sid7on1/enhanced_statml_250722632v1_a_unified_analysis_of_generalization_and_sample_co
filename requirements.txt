@@ -1,0 +1,9 @@
+# requirements.txt
+
+torch
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+Pillow
